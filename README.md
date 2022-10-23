@@ -3,7 +3,7 @@
 
 - 👾 Atualmente Trabalho apenas com Front-End, mas pretendo me tornar Full-Stack no futuro!
 - 🤖 Estudando React e JavaScript
-- 👽 Começei a estudar programação em Maio de 2022
+- 👽 Começei a estudar programação em Junho de 2022
 - 🏠 RS / BR
 
 <div align="left">
