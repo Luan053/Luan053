@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&size=38&duration=2500&color=03F700&center=false&vCenter=false&width=440&lines=Luan+Rockembach+Schulz;Web+Developer;Front-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Text&size=38&duration=2500&color=fff&center=false&vCenter=false&width=440&lines=Luan+Rockembach+Schulz;Web+Developer;Front-End)](https://git.io/typing-svg)
 
 - 👾 Atualmente Trabalho apenas com Front-End, mas pretendo me tornar Full-Stack no futuro!
 - 🤖 Estudando React e JavaScript
