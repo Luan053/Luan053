@@ -1,6 +1,6 @@
-<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Text&size=38&duration=2500&color=fff&center=false&vCenter=false&width=440&lines=Luan+Rockembach+Schulz;Web+Developer;Front-End)](https://git.io/typing-svg)
-<div/>
+
 - 👾 Atualmente Trabalho apenas com Front-End, mas pretendo me tornar Full-Stack no futuro!
 - 🤖 Estudando React e JavaScript
 - 👽 Começei a estudar programação em Junho de 2022
