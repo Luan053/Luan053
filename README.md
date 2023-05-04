@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Text&size=38&duration=2500&color=fff&center=false&vCenter=false&width=440&lines=Luan+Rockembach+Schulz;Web+Developer;Front-End)](https://git.io/typing-svg)
 
-- 👾 Atualmente Trabalho como Full-Stack na <a href="https://miortec.com.br/">Miortec</a>!
+- 👾 Atualmente Trabalho como Full-Stack na <a href="https://miortec.com.br/" target="_blank">Miortec</a>!
 - 🤖 Estudando React e .NET
 - 🏠 RS / BR
 
