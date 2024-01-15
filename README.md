@@ -2,7 +2,7 @@
 <p  align="center">- 🤖 Estudando Next e .NET</p>
 <p  align="center">- 🏠 RS / BR</p>&nbsp;
 
-<div style="margin-bottom:20px; display:flex;flex-direction:column;align-items:center;gap:1rem">
+<div align=center style="margin-bottom:20px;">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Jean-Jr7&theme=radical&mode=weekly" />
 
 <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan053&layout=compact&langs_count=6&theme=dracula"/>
