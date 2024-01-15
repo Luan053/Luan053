@@ -1,11 +1,7 @@
 
-![Luan](https://github.com/Luan053/Luan053/assets/98121364/72416bad-8706-4be7-9cc2-4a4332aec9d7)
-
+![Luan (1)](https://github.com/Luan053/Luan053/assets/98121364/39ed6f67-1774-4093-88da-e5600f3914c4)
 
 <p  align="center">- 🤖 Estudando Next.js e .NET</p>
-
-
-
 <p  align="center">- 🏠 RS / BR</p>&nbsp;
 
 <div align=center style="margin-bottom:20px;">
