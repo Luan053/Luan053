@@ -2,10 +2,10 @@
 <p  align="center">- 🤖 Estudando Next e .NET</p>
 <p  align="center">- 🏠 RS / BR</p>&nbsp;
 
-<div align=center style="margin-bottom:20px;">
+<div align=center style="margin-bottom:20px;display:flex;flex-direction:column;gap:1rem;">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Jean-Jr7&theme=radical&mode=weekly" />
 
-<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan053&layout=compact&langs_count=6&theme=dracula"/>
+<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan053&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
  &nbsp;
