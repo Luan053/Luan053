@@ -3,7 +3,7 @@
 <p  align="center">- 🏠 RS / BR</p>&nbsp;
 
 <div align=center style="margin-bottom:20px;">
-<img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luan053&theme=radical&mode=daily" />
+<img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luan053&theme=radical&mode=weekly" />
 
 <img width=41% style="margin-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan053&layout=compact&langs_count=6&theme=radical"/>
 </div>
