@@ -1,4 +1,4 @@
-<p style="padding-top: 10px;" align="center">Ola! Meu nome é Luan, e eu sou desenvolvedor 😁👍.</p>
+<p style="padding-top: 10px;" align="center">Ola👋 Meu nome é Luan, e eu sou desenvolvedor 😁.</p>
 <p  align="center">- 🤖 Estudando Next e .NET</p>
 <p  align="center">- 🏠 RS / BR</p>&nbsp;
 
