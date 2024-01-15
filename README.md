@@ -1,5 +1,5 @@
 
-![Luan (1)](https://github.com/Luan053/Luan053/assets/98121364/39ed6f67-1774-4093-88da-e5600f3914c4)
+![luann](https://github.com/Luan053/Luan053/assets/98121364/0eb8879c-f296-448f-9064-7abafcac343a)
 
 <p  align="center">- 🤖 Estudando Next.js e .NET</p>
 <p  align="center">- 🏠 RS / BR</p>&nbsp;
