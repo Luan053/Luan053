@@ -1,5 +1,5 @@
 <p style="padding-top: 10px;" align="center">Ola👋 Meu nome é Luan, e eu sou desenvolvedor 😁.</p>
-<p  align="center">- 🤖 Estudando Next e .NET</p>
+<p  align="center">- 🤖 Estudando Next.js e .NET</p>
 <p  align="center">- 🏠 RS / BR</p>&nbsp;
 
 <div align=center style="margin-bottom:20px;">
