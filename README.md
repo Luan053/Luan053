@@ -1,5 +1,10 @@
-<p style="padding-top: 10px;" align="center">Ola👋 Meu nome é Luan, e eu sou desenvolvedor 😁.</p>
+<svg style="padding-top: 10px;" align="center">
+https://github.com/Luan053/Luan053/assets/98121364/2eff4699-b918-4d6f-b16c-b601f0ef2665
+</svg>
 <p  align="center">- 🤖 Estudando Next.js e .NET</p>
+
+
+
 <p  align="center">- 🏠 RS / BR</p>&nbsp;
 
 <div align=center style="margin-bottom:20px;">
