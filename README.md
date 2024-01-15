@@ -5,7 +5,7 @@
 <div align=center style="margin-bottom:20px;display:flex;flex-direction:column;gap:1rem;">
 <img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Jean-Jr7&theme=radical&mode=weekly" />
 
-<img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan053&layout=compact&langs_count=6&theme=radical"/>
+<img width=41% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan053&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
  &nbsp;
