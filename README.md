@@ -16,7 +16,7 @@
 
 ## My Skills
 
-<img width=50% img src="https://github.com/Jean-Jr7/Jean-Jr7/assets/147209318/3d30f32e-4f03-466c-beb0-ddc9d8cd19a8" min-width="400px" max-width="400" width="400px" align="right" alt="Computador iuriCode">
+<img width=50% img src="https://github.com/Jean-Jr7/Jean-Jr7/assets/147209318/3d30f32e-4f03-466c-beb0-ddc9d8cd19a8" min-width="400px" max-width="400" width="400px" align="right" alt="Computador">
 
 
 #### 👨‍💻 Main Stack:
