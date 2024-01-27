@@ -1,9 +1,6 @@
-
 ![luann](https://github.com/Luan053/Luan053/assets/98121364/0eb8879c-f296-448f-9064-7abafcac343a)
-
 <p  align="center">- 🤖 Estudando Next.js e .NET</p>
 <p  align="center">- 🏠 RS / BR</p>&nbsp;
-
 <div align=center style="margin-bottom:20px;">
 <img width=60% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luan053&theme=radical&mode=weekly" />
 
