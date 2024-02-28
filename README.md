@@ -24,6 +24,7 @@
 
 #### 🦾 Frameworks / Libs:
 
+![Vite](https://img.shields.io/badge/vite-F2F4F9?style=for-the-badge&logo=vite&logoColor)
 ![Next.Js](https://img.shields.io/badge/nextjs-F2F4F9?style=for-the-badge&logo=next.js&logoColor=black)
 ![.Net](https://img.shields.io/badge/asp.net/blazor-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
